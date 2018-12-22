@@ -1,22 +1,28 @@
 {
   "response": [
     {
+      "card_no" :"001",
+      "card_update_time": "2018-11-10",
       "card_pic_url": "https://dimanyen.github.io/imgCardCombo.png",
       "card_name": "KOKO COMBO icash聯名卡",
       "card_kind": "Master",
       "status": 1
     },
     {
+      "card_no" :"002",
+      "card_update_time": "2018-11-11",
       "card_pic_url": "https://dimanyen.github.io/imgCardDebit.png",
       "card_name": "KOKO 簽帳金融卡",
       "card_kind": "VISA",
       "status": 2
     },
     {
+      "card_no" :"003",
+      "card_update_time": "2018-11-13",
       "card_pic_url": "https://dimanyen.github.io/imgCardCostco.png",
       "card_name": "Costco聯名卡",
       "card_kind": "Master",
       "status": 3
-    }    
+    }
   ]
 }
