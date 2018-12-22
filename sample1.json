@@ -1,0 +1,22 @@
+{
+  "response": [
+    {
+      "card_pic_url": "",
+      "card_name": "KOKO COMBO icash聯名卡",
+      "card_kind": "Master",
+      "status": 1
+    },
+    {
+      "card_pic_url": "",
+      "card_name": "KOKO 簽帳金融卡",
+      "card_kind": "VISA",
+      "status": 1
+    },
+    {
+      "card_pic_url": "",
+      "card_name": "Costco聯名卡",
+      "card_kind": "Master",
+      "status": 1
+    }
+  ]
+}
