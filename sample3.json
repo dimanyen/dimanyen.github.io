@@ -22,7 +22,7 @@
       "card_pic_url": "https://dimanyen.github.io/imgCardDebit.png",
       "card_name": "KOKO 簽帳金融卡",
       "card_kind": "VISA",
-      "status": ""
+      "status": 0
     }
   ]
 }
