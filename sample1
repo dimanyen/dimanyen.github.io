@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<script>
+location.replace("https://dimanyen.github.io/sample1.json")
+</script>
+
+</body>
+</html> 
